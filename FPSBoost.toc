@@ -1,0 +1,7 @@
+## Interface: 120000, 120001
+## Title: FPSBoost
+## Notes: Entfernt Quest-Watches (auch versteckte) um Tracker-Overhead zu senken und FPS zu verbessern. Nutze /fpsboost oder /fpsboost hidden.
+## Author: Local
+## Version: 1.0.0
+
+FPSBoost.lua
